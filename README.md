@@ -19,6 +19,6 @@ The task of the lamp is to turn it on in the morning and turn off at night. It's
 
 # Circuit
 ```
-![Circuit](https://github.com/oguzhanozdmr/scuti/blob/[branch]/image.jpg?raw=true)
+![Circuit](https://github.com/oguzhanozdmr/Scuti/blob/main/circuit_schematic.jpg?raw=true)
 ```
 
