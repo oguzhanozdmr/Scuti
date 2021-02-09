@@ -18,7 +18,7 @@ The task of the lamp is to turn it on in the morning and turn off at night. It's
 * DC 12 V Adapter
 
 # Circuit
-```
+
 ![Circuit](Image/circuit_schematic.jpg)
-```
+
 
