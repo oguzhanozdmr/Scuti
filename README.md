@@ -23,5 +23,5 @@ The task of the lamp is to turn it on in the morning and turn off at night. It's
 
 # My Circuit
 
-![MyCircuit](Image/my_circuit.jpg)
+![MyCircuit](Image/my_circuit.JPG)
 
