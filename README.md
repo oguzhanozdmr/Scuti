@@ -1,5 +1,5 @@
 # Scuti 
-Source code of the sun lamp for  parrot built with an Arduino. 
+Source code of  sun lamp for  parrot built with Arduino. 
 
 #  How it works
 My bird's native country is Australia so I looked at the sun path in Australia. Budgerigars have an extensive natural range. They’re found through most of Australia's interior west of the Great Dividing Range. It's  Dawn at 05:42 A.M and dusk at 7:45 P.M there. You can find the sun path on [here.](https://www.suncalc.org/#/-24.4684,133.0223,3/2021.02.09/06:09/1/3 )
